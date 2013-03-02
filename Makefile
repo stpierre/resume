@@ -6,6 +6,9 @@ commit: clean README
 
 README: ${SOURCE}
 	cp ${SOURCE} README.rst
+	echo -e '\n----\n' >> README.rst
+	echo 'Generated with `dmr <https://github.com/stpierre/dmr>`_' >> \
+	    README.rst
 
 latex:  ${SOURCE}
 	dmr -f latex -o resume.tex ${SOURCE}

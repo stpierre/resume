@@ -163,3 +163,7 @@ Related Skills and Activities
   familiar with Ruby
 * Primary contributor to `Bcfg2 <http://bcfg2.org>`_
 * Fluent in French
+
+----
+
+Generated with `dmr <https://github.com/stpierre/dmr>`_
