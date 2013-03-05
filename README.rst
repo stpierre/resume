@@ -22,9 +22,15 @@ March 2012 - Present
 * Serve as subject matter expert for Bcfg2, coordinating configuration
   of thousands of servers in dozens of environments on multiple
   completely separate, often divergent platforms.
+* Develop Bcfg2 to meet enterprise and community requirements by
+  adding features, fixing bugs, assisting with software releases, and
+  performing general code maintenance.
+* Develop and maintain an internal ecosystem of Bcfg2-related tools
+  and processes, including testing and deployment scripts and
+  templating snippets.
 * Overhauled Bcfg2 configuration for flagship platform, reducing
-  bespoke hacks, historical cruft, and streamlining continuous
-  integration and testing processes.
+  reliance on bespoke scripts, eliminating unnecessary and historical
+  code, and streamlining continuous integration and testing processes.
 * Maintain centralized abstract Bcfg2 base configuration to unify and
   manage configurations for separate platforms.
 * Give routine presentations on different aspects of Bcfg2 to various
