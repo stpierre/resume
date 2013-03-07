@@ -1,3 +1,9 @@
+.. options=latex
+   no-footer
+   exclude extended-experience
+.. options
+   footer
+
 ==================
  Chris St. Pierre
 ==================
@@ -21,23 +27,23 @@ March 2012 - Present
 
 * Serve as subject matter expert for Bcfg2, coordinating configuration
   of thousands of servers in dozens of environments on multiple
-  completely separate, often divergent platforms.
+  completely separate, often divergent platforms
 * Develop Bcfg2 to meet enterprise and community requirements by
   adding features, fixing bugs, assisting with software releases, and
-  performing general code maintenance.
+  performing general code maintenance
 * Develop and maintain an internal ecosystem of Bcfg2-related tools
   and processes, including testing and deployment scripts and
-  templating snippets.
+  templating snippets
 * Overhauled Bcfg2 configuration for flagship platform, reducing
   reliance on bespoke scripts, eliminating unnecessary and historical
-  code, and streamlining continuous integration and testing processes.
+  code, and streamlining continuous integration and testing processes
 * Maintain centralized abstract Bcfg2 base configuration to unify and
-  manage configurations for separate platforms.
+  manage configurations for separate platforms
 * Give routine presentations on different aspects of Bcfg2 to various
   interest groups, ranging from the highly technical to broad
-  executive overviews.
+  executive overviews
 * Write and maintain CloudFormation templates to automate provisioning
-  new environments and platforms on Amazon Web Services.
+  new environments and platforms on Amazon Web Services
 
 Oak Ridge National Laboratory
 -----------------------------
@@ -81,7 +87,7 @@ May 2004 - May 2010
   managed their integration and interoperation with over 1,000 Mac,
   Windows, and Linux desktops
 * Implemented and maintained a Storage Area Network to centralize
-  storage needs and support clustering infrastructure
+  storage needs and support clustering
 * Introduced and maintained clustering and load balancing for LDAP,
   email, web services, and file services to increase uptime and
   robustness of services
@@ -92,10 +98,23 @@ May 2004 - May 2010
   machines are properly backed up for both file restores and disaster
   recovery
 * Garnered significant long-term savings by replacing the email and
-  spam filtering infrastructure with equivalent open source software"
+  spam filtering infrastructure with equivalent open source software
+
+Network Assistant
+~~~~~~~~~~~~~~~~~
+
+.. group extended-experience
+
+June 2002 - May 2004
+
+* Installed network drops, maintained switch software, and assisted
+  with network hardware installation for Wesleyan Wireless project.
 
 Web Programmer
 ~~~~~~~~~~~~~~
+
+.. group extended-experience
+
 August 2000 - May 2004
 
 * Created dynamic web applications for the university, teachers, and
@@ -104,6 +123,15 @@ August 2000 - May 2004
   interlibrary loan
 * Ported a rigid, CLI-based system for handling data from chemistry
   lab experiments to an extensible, web-based system
+
+Education
+=========
+
+Nebraska Wesleyan University
+----------------------------
+1999 - 2004
+
+* B.A. in English, French, and Philosophy; minor in Computer Science
 
 Publications and Presentations
 ==============================
@@ -143,14 +171,19 @@ Professional Organizations
 * Member, USENIX, 2004-2011
 * Member, SAGE, 2005-2011
 
-Education
-=========
+Open Source Contributions
+=========================
 
-Nebraska Wesleyan University
-----------------------------
-1999 - 2004
-
-* B.A. in English, French, and Philosophy; minor in Computer Science
+* Primary contributor to `Bcfg2 <http://bcfg2.org>`_, a configuration
+  management suite, 2011-Present
+* Author of `dmr <https://github.com/stpierre/dmr>`_, a resume
+  rendering program, 2013
+* Author and maintainer of `389 DS Graph
+  <http://sourceforge.net/projects/fedora-ds-graph/>`_, a graphing and
+  statistical utility for 389 Directory Server, 2006-2010
+* Wrote 64-bit build logic for `389 Directory Server
+  <http://directory.fedoraproject.org>`_ (then Fedora Directory
+  Server), 2006
 
 Related Skills and Activities
 =============================
@@ -167,5 +200,4 @@ Related Skills and Activities
   Clouds, and S3
 * Significant expertise with Python, Perl, shell scripting, and PHP;
   familiar with Ruby
-* Primary contributor to `Bcfg2 <http://bcfg2.org>`_
 * Fluent in French
