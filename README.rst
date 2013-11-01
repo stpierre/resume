@@ -16,18 +16,20 @@
 Experience
 ==========
 
-Wireless Generation, Inc.
--------------------------
+Amplify Education
+-----------------
 | 55 Washington Street, #900
 | Brooklyn, NY 11201
 
-System Administrator III
-~~~~~~~~~~~~~~~~~~~~~~~~
+Systems Engineer
+~~~~~~~~~~~~~~~~
 March 2012 - Present
 
 * Serve as subject matter expert for Bcfg2, coordinating configuration
   of thousands of servers in dozens of environments on multiple
   completely separate, often divergent platforms
+* Lead project to enable engineers to provision self-service
+  development environments in public or private clouds.
 * Develop Bcfg2 to meet enterprise and community requirements by
   adding features, fixing bugs, assisting with software releases, and
   performing general code maintenance
@@ -136,6 +138,7 @@ Nebraska Wesleyan University
 Publications and Presentations
 ==============================
 
+* Facilitator, Real-World Configuration Management Workshop, LISA 2013
 * Chair, USENIX Configuration Management Summit 2013
 * Coordinator, The Guru Is In Sessions, LISA 2010-2013
 * Coordinator, "Advancing Women in Computing" panel, LISA 2012 and
@@ -195,11 +198,10 @@ Related Skills and Activities
   Django, Red Hat Cluster Server, RSA SecurID, mock, OpenLDAP, 389
   Directory Server, Keepalived, SAN and NAS technology, Cfengine,
   Drupal, Apache, PHP, Tomcat, MySQL, Samba, Nagios, and Blackboard
-* Experience deploying to Amazon AWS, including use of CloudFormation,
-  Route53, Elastic Load Balancer, Auto Scaling, Virtual Private
-  Clouds, and S3
-* Significant expertise with Python, Perl, shell scripting, and PHP;
-  familiar with Ruby
+* Experience deploying to Amazon AWS, including use of boto,
+  CloudFormation, Route53, Elastic Load Balancer, Auto Scaling,
+  Virtual Private Clouds, and S3
+* Significant expertise with Python, Perl, shell scripting, and PHP
 * Fluent in French
 
 ----
