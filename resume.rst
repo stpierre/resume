@@ -181,6 +181,10 @@ Open Source Contributions
   management suite, 2011-Present
 * Author of `dmr <https://github.com/stpierre/dmr>`_, a resume
   rendering program, 2013
+* Contributed various patches, including LDAP support and repository
+  diffing, to `Pulp <http://pulpproject.org>`_, 2011.
+* Author of `Sponge <http://github.com/stpierre/sponge>`_, a Pulp
+  web frontend implementing, 2011.
 * Author and maintainer of `389 DS Graph
   <http://sourceforge.net/projects/fedora-ds-graph/>`_, a graphing and
   statistical utility for 389 Directory Server, 2006-2010
