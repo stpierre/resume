@@ -11,16 +11,16 @@ README: ${SOURCE}
 	    README.rst
 
 latex:  ${SOURCE}
-	dmr -f latex -o resume.tex ${SOURCE}
+	dmr -c $(VIRTUAL_ENV)/etc/dmr.conf -f latex -o resume.tex ${SOURCE}
 
 html:   ${SOURCE}
-	dmr -f html -o resume.html ${SOURCE}
+	dmr -c $(VIRTUAL_ENV)/etc/dmr.conf -f html -o resume.html ${SOURCE}
 
 txt:	${SOURCE}
-	dmr -f text -o resume.txt ${SOURCE}
+	dmr -c $(VIRTUAL_ENV)/etc/dmr.conf -f text -o resume.txt ${SOURCE}
 
 json:	${SOURCE}
-	dmr -f json -o resume.json ${SOURCE}
+	dmr -c $(VIRTUAL_ENV)/etc/dmr.conf -f json -o resume.json ${SOURCE}
 
 pdf:	latex
 	pdflatex resume.tex
