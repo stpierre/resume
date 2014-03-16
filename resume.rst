@@ -28,14 +28,13 @@ March 2012 - Present
 * Serve as subject matter expert for Bcfg2, coordinating configuration
   of thousands of servers in dozens of environments on multiple
   completely separate, often divergent platforms
-* Lead project to enable engineers to provision self-service
-  development environments in public or private clouds.
+* Lead development on project to enable engineers to provision
+  self-service environments in AWS or private clouds using Python boto
+* Prototype Docker and related tools to develop a next-generation
+  deployment workflow
 * Develop Bcfg2 to meet enterprise and community requirements by
   adding features, fixing bugs, assisting with software releases, and
   performing general code maintenance
-* Develop and maintain an internal ecosystem of Bcfg2-related tools
-  and processes, including testing and deployment scripts and
-  templating snippets
 * Overhauled Bcfg2 configuration for flagship platform, reducing
   reliance on bespoke scripts, eliminating unnecessary and historical
   code, and streamlining continuous integration and testing processes
