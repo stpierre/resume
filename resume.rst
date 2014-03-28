@@ -181,7 +181,7 @@ Open Source Contributions
 * Author of `dmr <https://github.com/stpierre/dmr>`_, a resume
   rendering program, 2013
 * Contributed various patches, including LDAP support and repository
-  diffing, to `Pulp <http://pulpproject.org>`_, 2011.
+  diffing, to `Pulp <http://pulpproject.org>`_, 2011-2014
 * Author of `Sponge <http://github.com/stpierre/sponge>`_, a Pulp
   web frontend, 2011
 * Author and maintainer of `389 DS Graph
