@@ -178,6 +178,8 @@ Open Source Contributions
 
 * Primary contributor to `Bcfg2 <http://bcfg2.org>`_, a configuration
   management suite, 2011-Present
+* Maintain Docker images for the `CentOS Cloud Instance SIG
+  <http://wiki.centos.org/SpecialInterestGroup/CloudInstance>`_, 2014
 * Author of `dmr <https://github.com/stpierre/dmr>`_, a resume
   rendering program, 2013
 * Contributed various patches, including LDAP support and repository
