@@ -137,9 +137,10 @@ Nebraska Wesleyan University
 Publications and Presentations
 ==============================
 
-* Facilitator, Real-World Configuration Management Workshop, LISA 2013
-* Chair, USENIX Configuration Management Summit 2013
+* Chair, USENIX Configuration Management Summit 2013 and 2014
+* Coordinator, USENIX Labs Office Hours, LISA 2014
 * Coordinator, The Guru Is In Sessions, LISA 2010-2013
+* Facilitator, Real-World Configuration Management Workshop, LISA 2013
 * Coordinator, "Advancing Women in Computing" panel, LISA 2012 and
   2013; "Women in Tech" panel, LISA 2011
 * Hermanson, Matthew and Chris St. Pierre. "Staging Package Deployment
