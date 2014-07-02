@@ -208,7 +208,6 @@ Open Source Contributions
 Related Skills and Activities
 =============================
 
-* `RHCE #805010172452210 <https://www.redhat.com/wapps/training/certification/verify.html?certNumber=805010172452210>`_
 * Skilled with Linux, specifically Red Hat Enterprise Linux, Fedora,
   and Ubuntu.
 * Extensive experience managing Bcfg2, Pulp, VMware, Django, SAN and
