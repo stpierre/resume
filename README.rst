@@ -16,6 +16,18 @@
 Experience
 ==========
 
+Metacloud
+---------
+| 117 E. Colorado Blvd., Ste. 300
+| Pasadena, CA 91105
+
+Senior Software Engineer, Plaform Engineering
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+June 2014 - Present
+
+* Participate in both internal and upstream development of OpenStack
+  components, including Nova and Horizon
+
 Amplify Education
 -----------------
 | 55 Washington Street, #900
@@ -23,28 +35,28 @@ Amplify Education
 
 Systems Engineer
 ~~~~~~~~~~~~~~~~
-March 2012 - Present
+March 2012 - May 2014
 
-* Serve as subject matter expert for Bcfg2, coordinating configuration
-  of thousands of servers in dozens of environments on multiple
-  completely separate, often divergent platforms
-* Lead development on project to enable engineers to provision
+* Served as subject matter expert for Bcfg2, coordinating
+  configuration of thousands of servers in dozens of environments on
+  multiple completely separate, often divergent platforms
+* Led development on project to enable engineers to provision
   self-service environments in AWS or private clouds using Python boto
-* Prototype Docker and related tools to develop a next-generation
+* Prototyped Docker and related tools to develop a next-generation
   deployment workflow
-* Develop Bcfg2 to meet enterprise and community requirements by
+* Developed Bcfg2 to meet enterprise and community requirements by
   adding features, fixing bugs, assisting with software releases, and
   performing general code maintenance
 * Overhauled Bcfg2 configuration for flagship platform, reducing
   reliance on bespoke scripts, eliminating unnecessary and historical
   code, and streamlining continuous integration and testing processes
-* Maintain centralized abstract Bcfg2 base configuration to unify and
-  manage configurations for separate platforms
-* Give routine presentations on different aspects of Bcfg2 to various
+* Maintained centralized abstract Bcfg2 base configuration to unify
+  and manage configurations for separate platforms
+* Gave routine presentations on different aspects of Bcfg2 to various
   interest groups, ranging from the highly technical to broad
   executive overviews
-* Write and maintain CloudFormation templates to automate provisioning
-  new environments and platforms on Amazon Web Services
+* Wrote and maintained CloudFormation templates to automate
+  provisioning new environments and platforms on Amazon Web Services
 
 Oak Ridge National Laboratory
 -----------------------------
@@ -138,7 +150,6 @@ Publications and Presentations
 ==============================
 
 * Chair, USENIX Configuration Management Summit 2013 and 2014
-* Coordinator, USENIX Labs Office Hours, LISA 2014
 * Coordinator, The Guru Is In Sessions, LISA 2010-2013
 * Facilitator, Real-World Configuration Management Workshop, LISA 2013
 * Coordinator, "Advancing Women in Computing" panel, LISA 2012 and
@@ -178,11 +189,11 @@ Open Source Contributions
 =========================
 
 * Primary contributor to `Bcfg2 <http://bcfg2.org>`_, a configuration
-  management suite, 2011-Present
+  management suite, 2011-2014
 * Maintain Docker images for the `CentOS Cloud Instance SIG
   <http://wiki.centos.org/SpecialInterestGroup/CloudInstance>`_, 2014
 * Author of `dmr <https://github.com/stpierre/dmr>`_, a resume
-  rendering program, 2013
+  rendering program, 2013-present
 * Contributed various patches, including LDAP support and repository
   diffing, to `Pulp <http://pulpproject.org>`_, 2011-2014
 * Author of `Sponge <http://github.com/stpierre/sponge>`_, a Pulp
@@ -197,19 +208,16 @@ Open Source Contributions
 Related Skills and Activities
 =============================
 
-* `RHCE #805010172452210 <https://www.redhat.com/wapps/training/certification/verify.html?certNumber=805010172452210>`_
 * Skilled with Linux, specifically Red Hat Enterprise Linux, Fedora,
-  Ubuntu, and SuSE; and Solaris 9 and 10
-* Extensive experience managing Bcfg2, Pulp, VMware Server, Dokuwiki,
-  Django, Red Hat Cluster Server, RSA SecurID, mock, OpenLDAP, 389
-  Directory Server, Keepalived, SAN and NAS technology, Cfengine,
-  Drupal, Apache, PHP, Tomcat, MySQL, Samba, Nagios, and Blackboard
+  and Ubuntu.
+* Extensive experience managing Bcfg2, Pulp, VMware, Django, SAN and
+  NAS technology, Apache, PHP, MySQL, and Nagios
 * Experience deploying to Amazon AWS, including use of boto,
   CloudFormation, Route53, Elastic Load Balancer, Auto Scaling,
   Virtual Private Clouds, and S3
 * Significant expertise with Python, Perl, shell scripting, and PHP
 * Fluent in French
-
+-e 
 ----
 
 Generated with `dmr <https://github.com/stpierre/dmr>`_
