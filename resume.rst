@@ -26,7 +26,7 @@ Senior Software Engineer, Plaform Engineering
 June 2014 - Present
 
 * Participate in both internal and upstream development of OpenStack
-  Nova
+  components, including Nova and Horizon
 
 Amplify Education
 -----------------
