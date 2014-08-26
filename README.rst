@@ -149,14 +149,12 @@ Nebraska Wesleyan University
 Talks and Presentations
 =======================
 
-* `*Docker and LXC*
-  <https://github.com/stpierre/docker-presentation>`_, LOPSA East
-  Tennessee August 2014
-* *System Administration Future*, Cascadia IT Conference 2011
+* |docker-presentation|_, LOPSA East Tennessee August 2014
 * *Internal Documentation for Systems Administrators*, LOPSA East
   Tennessee May 2013; Professional IT Conference 2011; Cascadia IT
   Conference 2011; Southern California Linux Expo 7x (2009); Sysadmin
   Days Philadelphia 2007; Ohio Linux Fest 2007
+* *System Administration Futures*, Cascadia IT Conference 2011
 * *Introduction to LDAP: Provisioning, Managing, and Integrating*,
   Cascadia IT Conference 2011; Southern California Linux Expo 8x
   (2010); Ohio Linux Fest 2009
@@ -226,6 +224,13 @@ Related Skills and Activities
   Virtual Private Clouds, and S3
 * Significant expertise with Python, Perl, shell scripting, and PHP
 * Fluent in French
+
+
+.. silliness to get italics inside links
+
+.. _docker-presentation: https://github.com/stpierre/docker-presentation
+
+.. |docker-presentation| replace:: *Docker and LXC*
 -e 
 ----
 
