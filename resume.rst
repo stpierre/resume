@@ -146,8 +146,31 @@ Nebraska Wesleyan University
 
 * B.A. in English, French, and Philosophy; minor in Computer Science
 
-Publications and Presentations
-==============================
+Talks and Presentations
+=======================
+
+* *`Docker and LXC
+  <https://github.com/stpierre/docker-presentation>`_*, LOPSA East
+  Tennessee August 2014
+* *System Administration Future*, Cascadia IT Conference 2011
+* *Internal Documentation for Systems Administrators*, LOPSA East
+  Tennessee May 2013; Professional IT Conference 2011; Cascadia IT
+  Conference 2011; Southern California Linux Expo 7x (2009); Sysadmin
+  Days Philadelphia 2007; Ohio Linux Fest 2007
+* *Introduction to LDAP: Provisioning, Managing, and Integrating*,
+  Cascadia IT Conference 2011; Southern California Linux Expo 8x
+  (2010); Ohio Linux Fest 2009
+* *Saving the World with Fedora Directory Server*, Southern California
+  Linux Expo 7x (2009)
+* *The Guru Is In: Spam*, LISA 2008
+* *Fighting Spam with Open Source Tools*, Ohio Linux Fest 2009;
+  Southern California Linux Expo 6x (2008); Sysadmin Days Philadelphia
+  2007; Ohio Linux Fest 2007
+* Spam Workshop, LISA 2007 and 2008
+* *Hit the Ground Running: Spam*, LISA 2007
+
+Publications and Conferences
+============================
 
 * Chair, USENIX Configuration Management Summit 2013 and 2014
 * Coordinator, The Guru Is In Sessions, LISA 2010-2013
@@ -157,31 +180,17 @@ Publications and Presentations
 * Hermanson, Matthew and Chris St. Pierre. "Staging Package Deployment
   via Repository Management."
   LISA 2011. `<http://www.usenix.org/events/lisa11/tech/full_papers/Pierre.pdf>`_
-* Panelist, *System Administration Future*, Cascadia IT Conference 2011
-* Instructor, *Internal Documentation for Systems Administrators*,
-  Professional IT Conference 2011; Cascadia IT Conference 2011;
-  Southern California Linux Expo 7x (2009); Sysadmin Days Philadelphia
-  2007; Ohio Linux Fest 2007
-* Instructor, *Introduction to LDAP: Provisioning, Managing, and
-  Integrating*, Cascadia IT Conference 2011; Southern California Linux
-  Expo 8x (2010); Ohio Linux Fest 2009
-* Instructor, *Saving the World with Fedora Directory Server*,
-  Southern California Linux Expo 7x (2009)
-* Guru, *The Guru Is In: Spam*, LISA 2008
-* Instructor, *Fighting Spam with Open Source Tools*, Ohio Linux Fest
-  2009; Southern California Linux Expo 6x (2008); Sysadmin Days
-  Philadelphia 2007; Ohio Linux Fest 2007
-* Facilitator, Spam Workshop, LISA 2007 and 2008
-* Speaker, *Hit the Ground Running: Spam*, LISA 2007
 
 Professional Organizations
 ==========================
+
+.. group extended-experience
 
 * LOPSA Board of Directors, 2011
 * Communication Director, LOPSA, 2011
 * Member, LOPSA Education Committee, 2007-2010; co-author of Committee
   charter
-* Charter member, LOPSA, 2006-present
+* Charter member, LOPSA, 2006-2014
 * Member, USENIX, 2004-2011
 * Member, SAGE, 2005-2011
 
