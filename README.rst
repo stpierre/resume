@@ -149,8 +149,8 @@ Nebraska Wesleyan University
 Talks and Presentations
 =======================
 
-* *`Docker and LXC
-  <https://github.com/stpierre/docker-presentation>`_*, LOPSA East
+* `*Docker and LXC*
+  <https://github.com/stpierre/docker-presentation>`_, LOPSA East
   Tennessee August 2014
 * *System Administration Future*, Cascadia IT Conference 2011
 * *Internal Documentation for Systems Administrators*, LOPSA East
