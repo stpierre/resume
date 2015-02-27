@@ -8,16 +8,16 @@
  Chris St. Pierre
 ==================
 
-| 519 Edwards Lane
-| Rockwood, TN 37854
+| 2815 NW 7th st.
+| Lincoln, NE 68521
 | (402) 304-0982
 | chris.a.st.pierre@gmail.com
 
 Experience
 ==========
 
-Metacloud
----------
+Cisco Systems, Inc.
+-------------------
 | 117 E. Colorado Blvd., Ste. 300
 | Pasadena, CA 91105
 
@@ -26,7 +26,7 @@ Senior Software Engineer, Plaform Engineering
 June 2014 - Present
 
 * Participate in both internal and upstream development of OpenStack
-  components, including Nova and Horizon
+  components, including Nova, Glance, Keystone, Cinder, and Horizon
 
 Amplify Education
 -----------------
@@ -231,7 +231,7 @@ Related Skills and Activities
 .. _docker-presentation: https://github.com/stpierre/docker-presentation
 
 .. |docker-presentation| replace:: *Docker and LXC*
--e 
+
 ----
 
 Generated with `dmr <https://github.com/stpierre/dmr>`_

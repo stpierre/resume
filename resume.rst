@@ -16,8 +16,8 @@
 Experience
 ==========
 
-Metacloud
----------
+Cisco Systems, Inc.
+-------------------
 | 117 E. Colorado Blvd., Ste. 300
 | Pasadena, CA 91105
 
@@ -26,7 +26,7 @@ Senior Software Engineer, Plaform Engineering
 June 2014 - Present
 
 * Participate in both internal and upstream development of OpenStack
-  components, including Nova and Horizon
+  components, including Nova, Glance, Keystone, Cinder, and Horizon
 
 Amplify Education
 -----------------
