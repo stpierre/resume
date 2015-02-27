@@ -8,8 +8,8 @@
  Chris St. Pierre
 ==================
 
-| 519 Edwards Lane
-| Rockwood, TN 37854
+| 2815 NW 7th st.
+| Lincoln, NE 68521
 | (402) 304-0982
 | chris.a.st.pierre@gmail.com
 
