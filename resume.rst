@@ -145,6 +145,12 @@ August 2000 - May 2004
 Education
 =========
 
+Harbert School of Business, Auburn University
+---------------------------------------------
+2015 - Present
+
+* Enrolled in M.S. in Information Systems. Expected graduation: 2018
+
 Nebraska Wesleyan University
 ----------------------------
 1999 - 2004
