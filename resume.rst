@@ -176,12 +176,12 @@ Talks and Presentations
 * *Fighting Spam with Open Source Tools*, Ohio Linux Fest 2009;
   Southern California Linux Expo 6x (2008); Sysadmin Days Philadelphia
   2007; Ohio Linux Fest 2007
-* Spam Workshop, LISA 2007 and 2008
 * *Hit the Ground Running: Spam*, LISA 2007
 
 Publications and Conferences
 ============================
 
+* Facilitator, Running OpenStack Workshop, LISA 2015 (announced)
 * Chair, USENIX Configuration Management Summit 2013 and 2014
 * Coordinator, The Guru Is In Sessions, LISA 2010-2013
 * Facilitator, Real-World Configuration Management Workshop, LISA 2013
@@ -190,6 +190,7 @@ Publications and Conferences
 * Hermanson, Matthew and Chris St. Pierre. "Staging Package Deployment
   via Repository Management."
   LISA 2011. `<http://www.usenix.org/events/lisa11/tech/full_papers/Pierre.pdf>`_
+* Facilitator, Spam Workshop, LISA 2007 and 2008
 
 Professional Organizations
 ==========================
