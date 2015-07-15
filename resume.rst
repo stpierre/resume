@@ -27,6 +27,10 @@ June 2014 - Present
 
 * Participate in both internal and upstream development of OpenStack
   components, including Nova, Glance, Keystone, Cinder, and Horizon
+* Core developer of `Rally <https://wiki.openstack.org/wiki/Rally>`_,
+  an open-source benchmarking tool for OpenStack and other systems
+* Led development of internal REST performance monitoring tool, giving
+  cloud operators greater insight into hypervisor performance
 
 Amplify Education
 -----------------
@@ -37,9 +41,10 @@ Systems Engineer
 ~~~~~~~~~~~~~~~~
 March 2012 - May 2014
 
-* Served as subject matter expert for Bcfg2, coordinating
-  configuration of thousands of servers in dozens of environments on
-  multiple completely separate, often divergent platforms
+* Served as subject matter expert for `Bcfg2 <http://bcfg2.org>`_,
+  coordinating configuration of thousands of servers in dozens of
+  environments on multiple completely separate, often divergent
+  platforms
 * Led development on project to enable engineers to provision
   self-service environments in AWS or private clouds using Python boto
 * Prototyped Docker and related tools to develop a next-generation
