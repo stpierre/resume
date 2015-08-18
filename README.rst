@@ -8,7 +8,7 @@
  Chris St. Pierre
 ==================
 
-| 2815 NW 7th st.
+| 6715 Wildrye Rd.
 | Lincoln, NE 68521
 | (402) 304-0982
 | chris.a.st.pierre@gmail.com
@@ -27,6 +27,10 @@ June 2014 - Present
 
 * Participate in both internal and upstream development of OpenStack
   components, including Nova, Glance, Keystone, Cinder, and Horizon
+* Core developer of `Rally <https://wiki.openstack.org/wiki/Rally>`_,
+  an open-source benchmarking tool for OpenStack and other systems
+* Led development of internal REST performance monitoring tool, giving
+  cloud operators greater insight into hypervisor performance
 
 Amplify Education
 -----------------
@@ -37,9 +41,10 @@ Systems Engineer
 ~~~~~~~~~~~~~~~~
 March 2012 - May 2014
 
-* Served as subject matter expert for Bcfg2, coordinating
-  configuration of thousands of servers in dozens of environments on
-  multiple completely separate, often divergent platforms
+* Served as subject matter expert for `Bcfg2 <http://bcfg2.org>`_,
+  coordinating configuration of thousands of servers in dozens of
+  environments on multiple completely separate, often divergent
+  platforms
 * Led development on project to enable engineers to provision
   self-service environments in AWS or private clouds using Python boto
 * Prototyped Docker and related tools to develop a next-generation
@@ -140,6 +145,12 @@ August 2000 - May 2004
 Education
 =========
 
+Harbert School of Business, Auburn University
+---------------------------------------------
+2015 - Present
+
+* Enrolled in M.S. in Information Systems. Expected graduation: 2018
+
 Nebraska Wesleyan University
 ----------------------------
 1999 - 2004
@@ -165,12 +176,12 @@ Talks and Presentations
 * *Fighting Spam with Open Source Tools*, Ohio Linux Fest 2009;
   Southern California Linux Expo 6x (2008); Sysadmin Days Philadelphia
   2007; Ohio Linux Fest 2007
-* Spam Workshop, LISA 2007 and 2008
 * *Hit the Ground Running: Spam*, LISA 2007
 
 Publications and Conferences
 ============================
 
+* Facilitator, Running OpenStack Workshop, LISA 2015 (announced)
 * Chair, USENIX Configuration Management Summit 2013 and 2014
 * Coordinator, The Guru Is In Sessions, LISA 2010-2013
 * Facilitator, Real-World Configuration Management Workshop, LISA 2013
@@ -179,6 +190,7 @@ Publications and Conferences
 * Hermanson, Matthew and Chris St. Pierre. "Staging Package Deployment
   via Repository Management."
   LISA 2011. `<http://www.usenix.org/events/lisa11/tech/full_papers/Pierre.pdf>`_
+* Facilitator, Spam Workshop, LISA 2007 and 2008
 
 Professional Organizations
 ==========================

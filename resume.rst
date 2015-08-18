@@ -8,7 +8,7 @@
  Chris St. Pierre
 ==================
 
-| 2815 NW 7th st.
+| 6715 Wildrye Rd.
 | Lincoln, NE 68521
 | (402) 304-0982
 | chris.a.st.pierre@gmail.com
