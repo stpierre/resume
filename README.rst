@@ -21,10 +21,17 @@ Cisco Systems, Inc.
 | 117 E. Colorado Blvd., Ste. 300
 | Pasadena, CA 91105
 
+Senior Software Engineer, CI/CD
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+June 2016 - Present
+
 Senior Software Engineer, Plaform Engineering
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-June 2014 - Present
+June 2014 - June 2016
 
+* Major contributor to ground-up greenfield overhaul of CI
+  infrastructure, automating deployment of Gerrit, Jenkins, Zuul, and
+  other supporting infrastructure with Ansible
 * Participate in both internal and upstream development of OpenStack
   components, including Nova, Glance, Keystone, Cinder, and Horizon
 * Core developer of `Rally <https://wiki.openstack.org/wiki/Rally>`_,
@@ -145,12 +152,6 @@ August 2000 - May 2004
 Education
 =========
 
-Harbert School of Business, Auburn University
----------------------------------------------
-2015 - Present
-
-* Enrolled in M.S. in Information Systems. Expected graduation: 2018
-
 Nebraska Wesleyan University
 ----------------------------
 1999 - 2004
@@ -160,6 +161,11 @@ Nebraska Wesleyan University
 Talks and Presentations
 =======================
 
+* `*Writing and consuming REST services*
+  <https://github.com/stpierre/REST>`_, LISA 2016
+  (announced)
+* *Writing (micro)services with Flask*, LISA 2016
+  (announced)
 * `Docker and LXC <https://github.com/stpierre/docker-presentation>`_,
   LOPSA East Tennessee August 2014
 * *Internal Documentation for Systems Administrators*, LOPSA East
@@ -181,7 +187,8 @@ Talks and Presentations
 Publications and Conferences
 ============================
 
-* Facilitator, Running OpenStack Workshop, LISA 2015 (announced)
+* Tutorials Co-chair, LISA 2016
+* Facilitator, Running OpenStack Workshop, LISA 2015
 * Chair, USENIX Configuration Management Summit 2013 and 2014
 * Coordinator, The Guru Is In Sessions, LISA 2010-2013
 * Facilitator, Real-World Configuration Management Workshop, LISA 2013
@@ -208,9 +215,12 @@ Professional Organizations
 Open Source Contributions
 =========================
 
+* Thousands of lines of code to various OpenStack modules,
+  2014-present:
+  `<http://stackalytics.com/?user_id=stpierre&release=all&project_type=all&metric=loc>`_
 * Primary contributor to `Bcfg2 <http://bcfg2.org>`_, a configuration
   management suite, 2011-2014
-* Maintain Docker images for the `CentOS Cloud Instance SIG
+* Created Docker images for the `CentOS Cloud Instance SIG
   <http://wiki.centos.org/SpecialInterestGroup/CloudInstance>`_, 2014
 * Author of `dmr <https://github.com/stpierre/dmr>`_, a resume
   rendering program, 2013-present
