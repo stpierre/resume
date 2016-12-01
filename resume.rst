@@ -161,8 +161,8 @@ Nebraska Wesleyan University
 Talks and Presentations
 =======================
 
-* *`Writing and consuming REST services
-  <https://github.com/stpierre/REST>`_*, LISA 2016
+* `Writing and consuming REST services
+  <https://github.com/stpierre/REST>`_, LISA 2016
   (announced)
 * *Writing (micro)services with Flask*, LISA 2016
   (announced)
