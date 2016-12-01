@@ -21,10 +21,17 @@ Cisco Systems, Inc.
 | 117 E. Colorado Blvd., Ste. 300
 | Pasadena, CA 91105
 
+Senior Software Engineer, CI/CD
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+June 2016 - Present
+
 Senior Software Engineer, Plaform Engineering
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-June 2014 - Present
+June 2014 - June 2016
 
+* Major contributor to ground-up greenfield overhaul of CI
+  infrastructure, automating deployment of Gerrit, Jenkins, Zuul, and
+  other supporting infrastructure with Ansible
 * Participate in both internal and upstream development of OpenStack
   components, including Nova, Glance, Keystone, Cinder, and Horizon
 * Core developer of `Rally <https://wiki.openstack.org/wiki/Rally>`_,
