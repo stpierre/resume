@@ -29,13 +29,16 @@ Senior Software Engineer, Plaform Engineering
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 June 2014 - June 2016
 
+* Technical lead on CI team providing services to teams maintaining
+  dozens of components for multiple products
 * Major contributor to ground-up greenfield overhaul of CI
   infrastructure, automating deployment of Gerrit, Jenkins, Zuul, and
   other supporting infrastructure with Ansible
 * Participate in both internal and upstream development of OpenStack
   components, including Nova, Glance, Keystone, Cinder, and Horizon
 * Core developer of `Rally <https://wiki.openstack.org/wiki/Rally>`_,
-  an open-source benchmarking tool for OpenStack and other systems
+  an open-source benchmarking tool for OpenStack and other systems,
+  2015-2017
 * Led development of internal REST performance monitoring tool, giving
   cloud operators greater insight into hypervisor performance
 
@@ -162,10 +165,9 @@ Talks and Presentations
 =======================
 
 * `Writing and consuming REST services
-  <https://github.com/stpierre/REST>`_, LISA 2016
-  (announced)
-* *Writing (micro)services with Flask*, LISA 2016
-  (announced)
+  <https://github.com/stpierre/REST>`_, LISA 2016 & 2017
+* `Writing (micro)services with Flask
+  <https://github.com/stpierre/flask-microservices>`_, LISA 2016
 * `Docker and LXC <https://github.com/stpierre/docker-presentation>`_,
   LOPSA East Tennessee August 2014
 * *Internal Documentation for Systems Administrators*, LOPSA East
@@ -218,6 +220,8 @@ Open Source Contributions
 * Thousands of lines of code to various OpenStack modules,
   2014-present:
   `<http://stackalytics.com/?user_id=stpierre&release=all&project_type=all&metric=loc>`_
+* Core developer of OpenStack `Rally
+  <https://wiki.openstack.org/wiki/Rally>`_, 2015-2017
 * Primary contributor to `Bcfg2 <http://bcfg2.org>`_, a configuration
   management suite, 2011-2014
 * Created Docker images for the `CentOS Cloud Instance SIG
