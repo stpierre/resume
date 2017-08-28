@@ -258,6 +258,8 @@ Related Skills and Activities
 Unrelated Activities
 ====================
 
+.. group unrelated-activities
+
 * Speaker: *Nebraska Bike/Ped Crash Data Analysis*, `Nebraska
   Bike/Walk Summit <https://www.nebikewalksummit.org/>`_ 2017
 * Maintain a comprehensive database of bicycle crash data for Lincoln,
