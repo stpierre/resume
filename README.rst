@@ -25,17 +25,23 @@ Senior Software Engineer, CI/CD
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 June 2016 - Present
 
+* Technical lead on CI team providing services to teams maintaining
+  dozens of components for multiple products
+* Engineered self-service inventory-driven CI services using Jenkins
+  pipelines and Docker for isolation
+* Major contributor to ground-up greenfield overhaul of CI
+  infrastructure, automating deployment of Gerrit, Jenkins, Zuul, and
+  other supporting infrastructure with Ansible
+* Core developer of `Rally <https://wiki.openstack.org/wiki/Rally>`_,
+  an open-source benchmarking tool for OpenStack and other systems,
+  2015-2017
+
 Senior Software Engineer, Plaform Engineering
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 June 2014 - June 2016
 
-* Major contributor to ground-up greenfield overhaul of CI
-  infrastructure, automating deployment of Gerrit, Jenkins, Zuul, and
-  other supporting infrastructure with Ansible
-* Participate in both internal and upstream development of OpenStack
+* Participated in both internal and upstream development of OpenStack
   components, including Nova, Glance, Keystone, Cinder, and Horizon
-* Core developer of `Rally <https://wiki.openstack.org/wiki/Rally>`_,
-  an open-source benchmarking tool for OpenStack and other systems
 * Led development of internal REST performance monitoring tool, giving
   cloud operators greater insight into hypervisor performance
 
@@ -162,10 +168,9 @@ Talks and Presentations
 =======================
 
 * `Writing and consuming REST services
-  <https://github.com/stpierre/REST>`_, LISA 2016
-  (announced)
-* *Writing (micro)services with Flask*, LISA 2016
-  (announced)
+  <https://github.com/stpierre/REST>`_, LISA 2016 & 2017 (announced)
+* `Writing (micro)services with Flask
+  <https://github.com/stpierre/flask-microservices>`_, LISA 2016
 * `Docker and LXC <https://github.com/stpierre/docker-presentation>`_,
   LOPSA East Tennessee August 2014
 * *Internal Documentation for Systems Administrators*, LOPSA East
@@ -218,6 +223,8 @@ Open Source Contributions
 * Thousands of lines of code to various OpenStack modules,
   2014-present:
   `<http://stackalytics.com/?user_id=stpierre&release=all&project_type=all&metric=loc>`_
+* Core developer of OpenStack `Rally
+  <https://wiki.openstack.org/wiki/Rally>`_, 2015-2017
 * Primary contributor to `Bcfg2 <http://bcfg2.org>`_, a configuration
   management suite, 2011-2014
 * Created Docker images for the `CentOS Cloud Instance SIG
@@ -240,13 +247,21 @@ Related Skills and Activities
 
 * Skilled with Linux, specifically Red Hat Enterprise Linux, Fedora,
   and Ubuntu.
-* Extensive experience managing Bcfg2, Pulp, VMware, Django, SAN and
-  NAS technology, Apache, PHP, MySQL, and Nagios
+* Extensive experience managing OpenStack, Ansible, Jenkins, Gerrit,
+  Sensu, Pulp, SAN and NAS technology, Apache, PHP, MySQL, and Nagios
 * Experience deploying to Amazon AWS, including use of boto,
   CloudFormation, Route53, Elastic Load Balancer, Auto Scaling,
   Virtual Private Clouds, and S3
 * Significant expertise with Python, Perl, shell scripting, and PHP
 * Fluent in French
+
+Unrelated Activities
+====================
+
+* Speaker: *Nebraska Bike/Ped Crash Data Analysis*, `Nebraska
+  Bike/Walk Summit <https://www.nebikewalksummit.org/>`_ 2017
+* Maintain a comprehensive database of bicycle crash data for Lincoln,
+  NE: http://stpierre.github.io/crashes/
 
 ----
 
