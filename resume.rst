@@ -36,6 +36,11 @@ June 2016 - Present
   an open-source benchmarking tool for OpenStack and other systems,
   2015-2017
 
+Metacloud, Inc. (acquired by Cisco Systems, Inc., in September 2014)
+--------------------------------------------------------------------
+| 117 E. Colorado Blvd., Ste. 300
+| Pasadena, CA 91105
+
 Senior Software Engineer, Plaform Engineering
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 June 2014 - June 2016
