@@ -16,6 +16,25 @@
 Experience
 ==========
 
+Petal Card, Inc.
+----------------
+| 116 W. Houston St.
+| New York, NY 10012
+
+Senior Software Engineer II, Infrastructure
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+April 2018 - Present
+
+* Coordinate and lead release engineering efforts, including managing
+  CI, release, and deployment pipelines, tooling, and infrastructure
+* Act as a primary driver for refactoring a legacy monolithic code
+  base into microservices, including taking a lead in architectural
+  planning, refactoring portions of the codebase as exemplars, and
+  planning and producing CI/CD infrastructure to support refactoring
+  efforts
+* Lead code quality efforts as our principal product has grown from
+  two primary contributors to dozens
+
 Cisco Systems, Inc.
 -------------------
 | 117 E. Colorado Blvd., Ste. 300
@@ -23,7 +42,7 @@ Cisco Systems, Inc.
 
 Senior Software Engineer, CI/CD
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-June 2016 - Present
+June 2016 - April 2018
 
 * Technical lead on CI team providing services to teams maintaining
   dozens of components for multiple products
@@ -35,11 +54,6 @@ June 2016 - Present
 * Core developer of `Rally <https://wiki.openstack.org/wiki/Rally>`_,
   an open-source benchmarking tool for OpenStack and other systems,
   2015-2017
-
-Metacloud, Inc. (acquired by Cisco Systems, Inc., in September 2014)
---------------------------------------------------------------------
-| 117 E. Colorado Blvd., Ste. 300
-| Pasadena, CA 91105
 
 Senior Software Engineer, Plaform Engineering
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

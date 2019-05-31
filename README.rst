@@ -16,6 +16,25 @@
 Experience
 ==========
 
+Petal Card, Inc.
+----------------
+| 116 W. Houston St.
+| New York, NY 10012
+
+Senior Software Engineer II, Infrastructure
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+April 2018 - Present
+
+* Coordinate and lead release engineering efforts, including managing
+  CI, release, and deployment pipelines, tooling, and infrastructure
+* Act as a primary driver for refactoring a legacy monolithic code
+  base into microservices, including taking a lead in architectural
+  planning, refactoring portions of the codebase as exemplars, and
+  planning and producing CI/CD infrastructure to support refactoring
+  efforts
+* Lead code quality efforts as our principal product has grown from
+  two primary contributors to dozens
+
 Cisco Systems, Inc.
 -------------------
 | 117 E. Colorado Blvd., Ste. 300
@@ -23,7 +42,7 @@ Cisco Systems, Inc.
 
 Senior Software Engineer, CI/CD
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-June 2016 - Present
+June 2016 - April 2018
 
 * Technical lead on CI team providing services to teams maintaining
   dozens of components for multiple products
@@ -59,17 +78,12 @@ March 2012 - May 2014
   environments on multiple completely separate, often divergent
   platforms
 * Led development on project to enable engineers to provision
-  self-service environments in AWS or private clouds using Python boto
+  self-service environments in AWS or private clouds
 * Prototyped Docker and related tools to develop a next-generation
   deployment workflow
 * Developed Bcfg2 to meet enterprise and community requirements by
   adding features, fixing bugs, assisting with software releases, and
   performing general code maintenance
-* Overhauled Bcfg2 configuration for flagship platform, reducing
-  reliance on bespoke scripts, eliminating unnecessary and historical
-  code, and streamlining continuous integration and testing processes
-* Maintained centralized abstract Bcfg2 base configuration to unify
-  and manage configurations for separate platforms
 * Gave routine presentations on different aspects of Bcfg2 to various
   interest groups, ranging from the highly technical to broad
   executive overviews
@@ -89,8 +103,8 @@ June 2010 - March 2012
 * Led implementation of Bcfg2 for configuration management to replace
   Cfengine on a network of over 3000 physical and virtual services
   managed by over 20 administrators across five teams
-* Overhauled software mirrors to tier deployment of updates, greatly
-  improve consistency, improve reporting, and deduplicate data
+* Overhauled software mirrors to tier deployment of updates, improve
+  consistency and reporting, and deduplicate data
 * Overhauled package build infrastructure to permit cross-platform
   builds and streamline package build, signing, and deployment process
 * Wrote and implemented `Sponge <http://github.com/stpierre/sponge>`_,
@@ -98,12 +112,6 @@ June 2010 - March 2012
   AMQP to offload and distribute tasks
 * Reorganized internal documentation wiki to increase automation and
   organization
-* Assisted in creation and implementation of Change Management
-  processes
-* Presented numerous internal presentations on new and existing
-  technologies, including Bcfg2; bash scripting; building RPMs;
-  wiki-based documentation; and more
-* Managed HPC resources for external clients
 
 Nebraska Wesleyan University
 ----------------------------
@@ -224,23 +232,13 @@ Open Source Contributions
   2014-present:
   `<http://stackalytics.com/?user_id=stpierre&release=all&project_type=all&metric=loc>`_
 * Core developer of OpenStack `Rally
-  <https://wiki.openstack.org/wiki/Rally>`_, 2015-2017
+  <https://wiki.openstack.org/wiki/Rally>`_, 2015-present
 * Primary contributor to `Bcfg2 <http://bcfg2.org>`_, a configuration
   management suite, 2011-2014
 * Created Docker images for the `CentOS Cloud Instance SIG
   <http://wiki.centos.org/SpecialInterestGroup/CloudInstance>`_, 2014
-* Author of `dmr <https://github.com/stpierre/dmr>`_, a resume
-  rendering program, 2013-present
 * Contributed various patches, including LDAP support and repository
   diffing, to `Pulp <http://pulpproject.org>`_, 2011-2014
-* Author of `Sponge <http://github.com/stpierre/sponge>`_, a Pulp
-  web frontend, 2011
-* Author and maintainer of `389 DS Graph
-  <http://sourceforge.net/projects/fedora-ds-graph/>`_, a graphing and
-  statistical utility for 389 Directory Server, 2006-2010
-* Wrote 64-bit build logic for `389 Directory Server
-  <http://directory.fedoraproject.org>`_ (then Fedora Directory
-  Server), 2006
 
 Related Skills and Activities
 =============================
@@ -253,7 +251,6 @@ Related Skills and Activities
   CloudFormation, Route53, Elastic Load Balancer, Auto Scaling,
   Virtual Private Clouds, and S3
 * Significant expertise with Python, Perl, shell scripting, and PHP
-* Fluent in French
 
 Unrelated Activities
 ====================
@@ -264,6 +261,7 @@ Unrelated Activities
   Bike/Walk Summit <https://www.nebikewalksummit.org/>`_ 2017
 * Maintain a comprehensive database of bicycle crash data for Lincoln,
   NE: http://stpierre.github.io/crashes/
+* Fluent in French
 
 ----
 
