@@ -18,22 +18,38 @@ Experience
 
 Petal Card, Inc.
 ----------------
-| 116 W. Houston St.
-| New York, NY 10012
+| 233 Spring St, 3rd Floor
+| New York, NY 10013
 
-Senior Software Engineer II, Infrastructure
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Staff Site Reliability Engineer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 April 2018 - Present
 
-* Coordinate and lead release engineering efforts, including managing
-  CI, release, and deployment pipelines, tooling, and infrastructure
-* Act as a primary driver for refactoring a legacy monolithic code
-  base into microservices, including taking a lead in architectural
+* Lead multi-year project to refactor a legacy monolithic code base
+  into microservices, including taking a lead in architectural
   planning, refactoring portions of the codebase as exemplars, and
   planning and producing CI/CD infrastructure to support refactoring
   efforts
+* Lead long-running project to migrate all production code from a
+  legacy Hashicorp Nomad environment to EKS, including reworking our
+  AWS strategy, providing and procuring training, updating toolchains,
+  and planning for scale
+* Created, implemented, and steward the Engineering-wide Technical
+  Review Process for making and recording sound technical decisions,
+  ensuring production readiness, and learning from our successes
+* Provide senior technical leadership on the Infrastructure team,
+  across Engineering, and company-wide on a huge range of huge range
+  of initiatives, including application configuration, code
+  resiliency, incident response and postmortems, and documentation
+* Coordinate and lead release engineering efforts, including managing
+  CI, release, and deployment pipelines, tooling, and infrastructure
 * Lead code quality efforts as our principal product has grown from
   two primary contributors to dozens
+* Lead implementation and tracking of Engineering-wide DevOps KPIs
+* Implement and support all infrastructure and CI/CD systems,
+  including AWS strategy, networking, and other overhead;
+  Kubernetes/EKS and Nomad; logging and observability; and all phases
+  of developer environment setup and experience
 
 Cisco Systems, Inc.
 -------------------
@@ -117,6 +133,8 @@ Nebraska Wesleyan University
 ----------------------------
 | 5000 St. Paul Avenue
 | Lincoln, NE 68504
+
+.. group extended-experience
 
 Unix Systems Administrator
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -229,28 +247,16 @@ Open Source Contributions
 =========================
 
 * Thousands of lines of code to various OpenStack modules,
-  2014-present:
+  2014-2018:
   `<http://stackalytics.com/?user_id=stpierre&release=all&project_type=all&metric=loc>`_
 * Core developer of OpenStack `Rally
-  <https://wiki.openstack.org/wiki/Rally>`_, 2015-present
+  <https://wiki.openstack.org/wiki/Rally>`_, 2015-2018
 * Primary contributor to `Bcfg2 <http://bcfg2.org>`_, a configuration
   management suite, 2011-2014
 * Created Docker images for the `CentOS Cloud Instance SIG
   <http://wiki.centos.org/SpecialInterestGroup/CloudInstance>`_, 2014
 * Contributed various patches, including LDAP support and repository
   diffing, to `Pulp <http://pulpproject.org>`_, 2011-2014
-
-Related Skills and Activities
-=============================
-
-* Skilled with Linux, specifically Red Hat Enterprise Linux, Fedora,
-  and Ubuntu.
-* Extensive experience managing OpenStack, Ansible, Jenkins, Gerrit,
-  Sensu, Pulp, SAN and NAS technology, Apache, PHP, MySQL, and Nagios
-* Experience deploying to Amazon AWS, including use of boto,
-  CloudFormation, Route53, Elastic Load Balancer, Auto Scaling,
-  Virtual Private Clouds, and S3
-* Significant expertise with Python, Perl, shell scripting, and PHP
 
 Unrelated Activities
 ====================
