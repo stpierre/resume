@@ -21,8 +21,8 @@ Petal Card, Inc.
 | 233 Spring St, 3rd Floor
 | New York, NY 10013
 
-Staff Site Reliability Engineer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Senior Staff Site Reliability Engineer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 April 2018 - Present
 
 * Lead multi-year project to refactor a legacy monolithic code base
@@ -41,7 +41,7 @@ April 2018 - Present
   across Engineering, and company-wide on a huge range of huge range
   of initiatives, including application configuration, code
   resiliency, incident response and postmortems, and documentation
-* Coordinate and lead release engineering efforts, including managing
+* Coordinated and led release engineering efforts, including managing
   CI, release, and deployment pipelines, tooling, and infrastructure
 * Lead code quality efforts as our principal product has grown from
   two primary contributors to dozens
@@ -194,7 +194,7 @@ Talks and Presentations
 =======================
 
 * `Writing and consuming REST services
-  <https://github.com/stpierre/REST>`_, LISA 2016 & 2017 (announced)
+  <https://github.com/stpierre/REST>`_, LISA 2016 & 2017
 * `Writing (micro)services with Flask
   <https://github.com/stpierre/flask-microservices>`_, LISA 2016
 * `Docker and LXC <https://github.com/stpierre/docker-presentation>`_,
