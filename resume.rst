@@ -21,8 +21,8 @@ Petal Card, Inc.
 | 233 Spring St, 3rd Floor
 | New York, NY 10013
 
-Staff Site Reliability Engineer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Senior Staff Software Engineer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 April 2018 - Present
 
 * Lead multi-year project to refactor a legacy monolithic code base
