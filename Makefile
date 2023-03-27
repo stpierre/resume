@@ -1,32 +1,32 @@
-SOURCE=resume.rst
+SOURCE := resume.rst
 
-all:	README latex html txt json pdf
+all:	README.rst resume.pdf
 
 commit: clean README
 
-README: ${SOURCE}
-	cp ${SOURCE} README.rst
-	echo -e '\n----\n' >> README.rst
+README.rst: ${SOURCE}
+	cp ${SOURCE} $@
+	echo -e '\n----\n' >> $@
 	echo 'Generated with `dmr <https://github.com/stpierre/dmr>`_' >> \
-	    README.rst
+	    $@
 
-latex:  ${SOURCE}
-	dmr -c ./dmr.conf -f latex -o resume.tex ${SOURCE}
+resume.tex:  ${SOURCE}
+	dmr -c ./dmr.conf -f latex -o $@ ${SOURCE}
 
-html:   ${SOURCE}
-	dmr -c ./dmr.conf -f html -o resume.html ${SOURCE}
+resume.html:   ${SOURCE}
+	dmr -c ./dmr.conf -f html -o $@ ${SOURCE}
 
-txt:	${SOURCE}
-	dmr -c ./dmr.conf -f text -o resume.txt ${SOURCE}
+resume.txt:	${SOURCE}
+	dmr -c ./dmr.conf -f text -o $@ ${SOURCE}
 
-json:	${SOURCE}
-	dmr -c ./dmr.conf -f json -o resume.json ${SOURCE}
+resume.json:	${SOURCE}
+	dmr -c ./dmr.conf -f json -o $@ ${SOURCE}
 
-pdf:	latex
-	pdflatex resume.tex
+resume.pdf:	resume.tex
+	pdflatex $<
 
 cleanpdf:
 	rm -rf resume.tex resume.log resume.out resume.aux
 
 clean:	cleanpdf
-	rm -rf resume.html resume.pdf README resume.json resume.txt
+	rm -rf resume.html resume.pdf resume.json resume.txt

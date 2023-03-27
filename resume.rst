@@ -13,6 +13,15 @@
 | (402) 304-0982
 | chris.a.st.pierre@gmail.com
 
+Summary
+=======
+
+Ardent generalist and self-starter with two decades of experience in
+backend application development and site reliability engineering. I'm
+a proven technical leader and mentor with extensive operational
+experience and a zeal for documentation and communication, technical
+rigor, and building quality into everything I do.
+
 Experience
 ==========
 
@@ -25,7 +34,7 @@ Senior Staff Software Engineer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 April 2018 - Present
 
-* Lead multi-year project to refactor a legacy monolithic code base
+* Own multi-year project to refactor a legacy monolithic code base
   into microservices, including taking a lead in architectural
   planning, refactoring portions of the codebase as exemplars, and
   planning and producing CI/CD infrastructure to support refactoring
@@ -37,19 +46,15 @@ April 2018 - Present
 * Created, implemented, and steward the Engineering-wide Technical
   Review Process for making and recording sound technical decisions,
   ensuring production readiness, and learning from our successes
-* Provide senior technical leadership on the Infrastructure team,
-  across Engineering, and company-wide on a huge range of huge range
-  of initiatives, including application configuration, code
-  resiliency, incident response and postmortems, and documentation
+* Provide company-wide senior technical leadership on a huge range of
+  initiatives, including application configuration, code resiliency,
+  incident response and postmortems, and documentation
 * Coordinate and lead release engineering efforts, including managing
   CI, release, and deployment pipelines, tooling, and infrastructure
 * Lead code quality efforts as our principal product has grown from
   two primary contributors to dozens
 * Lead implementation and tracking of Engineering-wide DevOps KPIs
-* Implement and support all infrastructure and CI/CD systems,
-  including AWS strategy, networking, and other overhead;
-  Kubernetes/EKS and Nomad; logging and observability; and all phases
-  of developer environment setup and experience
+* Interim Director of Infrastructure, October 2021 - March 2022
 
 Cisco Systems, Inc.
 -------------------
@@ -58,7 +63,7 @@ Cisco Systems, Inc.
 
 Senior Software Engineer, CI/CD
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-June 2016 - April 2018
+June 2014 - April 2018
 
 * Technical lead on CI team providing services to teams maintaining
   dozens of components for multiple products
@@ -70,11 +75,6 @@ June 2016 - April 2018
 * Core developer of `Rally <https://wiki.openstack.org/wiki/Rally>`_,
   an open-source benchmarking tool for OpenStack and other systems,
   2015-2017
-
-Senior Software Engineer, Plaform Engineering
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-June 2014 - June 2016
-
 * Participated in both internal and upstream development of OpenStack
   components, including Nova, Glance, Keystone, Cinder, and Horizon
 * Led development of internal REST performance monitoring tool, giving
@@ -95,8 +95,6 @@ March 2012 - May 2014
   platforms
 * Led development on project to enable engineers to provision
   self-service environments in AWS or private clouds
-* Prototyped Docker and related tools to develop a next-generation
-  deployment workflow
 * Developed Bcfg2 to meet enterprise and community requirements by
   adding features, fixing bugs, assisting with software releases, and
   performing general code maintenance
@@ -119,13 +117,6 @@ June 2010 - March 2012
 * Led implementation of Bcfg2 for configuration management to replace
   Cfengine on a network of over 3000 physical and virtual services
   managed by over 20 administrators across five teams
-* Overhauled software mirrors to tier deployment of updates, improve
-  consistency and reporting, and deduplicate data
-* Overhauled package build infrastructure to permit cross-platform
-  builds and streamline package build, signing, and deployment process
-* Wrote and implemented `Sponge <http://github.com/stpierre/sponge>`_,
-  a web interface to software mirrors using Pulp, Django, Celery, and
-  AMQP to offload and distribute tasks
 * Reorganized internal documentation wiki to increase automation and
   organization
 
@@ -134,28 +125,16 @@ Nebraska Wesleyan University
 | 5000 St. Paul Avenue
 | Lincoln, NE 68504
 
-.. group extended-experience
-
 Unix Systems Administrator
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 May 2004 - May 2010
 
-* Maintained a network of around 40 Linux and Solaris servers and
-  managed their integration and interoperation with over 1,000 Mac,
-  Windows, and Linux desktops
-* Implemented and maintained a Storage Area Network to centralize
-  storage needs and support clustering
 * Introduced and maintained clustering and load balancing for LDAP,
   email, web services, and file services to increase uptime and
   robustness of services
 * Created and maintained configuration management, standardized build,
   and bare-metal recovery procedures to achieve consistency and
   reproducibility
-* Implemented disk-to-disk-to-disk backup systems, ensuring that all
-  machines are properly backed up for both file restores and disaster
-  recovery
-* Garnered significant long-term savings by replacing the email and
-  spam filtering infrastructure with equivalent open source software
 
 Network Assistant
 ~~~~~~~~~~~~~~~~~
@@ -194,7 +173,7 @@ Talks and Presentations
 =======================
 
 * `Writing and consuming REST services
-  <https://github.com/stpierre/REST>`_, LISA 2016 & 2017 (announced)
+  <https://github.com/stpierre/REST>`_, LISA 2016 & 2017
 * `Writing (micro)services with Flask
   <https://github.com/stpierre/flask-microservices>`_, LISA 2016
 * `Docker and LXC <https://github.com/stpierre/docker-presentation>`_,
